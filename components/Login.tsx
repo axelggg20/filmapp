@@ -1,9 +1,9 @@
-import React from "react";
+import Image from 'next/image';
 
 const Login: React.FC = () => (
   <div className="flex items-center gap-2">
     <span className="text-white">Usuario nuevo</span>
-    <div className="w-8 h-8 rounded-full bg-gray-500"></div>
+    <Image src="/images/user2.png" alt="Usuario" width={28} height={28} />
   </div>
 );
 

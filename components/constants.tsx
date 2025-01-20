@@ -20,6 +20,8 @@ export const MOVIE_CATEGORIES = [
       duration: "2h",
       year: "2015",
       rating: "4.1",
+      director: "",
+      starring: "",
       description: "En un lugar post-apocalíptico, una mujer se rebela contra un gobernante tiránico en busca de su tierra natal con la ayuda de un grupo de mujeres prisioneras, un devoto psicótico y un vagabundo llamado Max.",
     },
     {
@@ -29,6 +31,8 @@ export const MOVIE_CATEGORIES = [
       duration: "1h 32min",
       year: "2006",
       rating: "3.1",
+      director: "",
+      starring: "",
       description: "Tras ser despreciado por los que le rodean durante toda su vida, un monje sigue su sueño y se pone una careta para hacer horas extra como luchador mexicano.",
     },
     {
@@ -38,6 +42,8 @@ export const MOVIE_CATEGORIES = [
       duration: "2h 49min",
       year: "2020",
       rating: "4.4",
+      director: "",
+      starring: "",
       description: "Un grupo de exploradores prueban los saltos a través de agujeros de gusano en búsqueda de la sobrevivencia de la humanidad.",
     },
     {
@@ -47,6 +53,8 @@ export const MOVIE_CATEGORIES = [
       duration: "2h",
       year: "2010",
       rating: "3.8",
+      director: "",
+      starring: "",
       description: "Un estudiante de Harvard llamado Mark Zuckerberg crea un sitio de redes sociales conocido como Facebook, pero luego será demandado por dos hermanos que afirman que él robó su idea.",
     },
     {
@@ -56,6 +64,8 @@ export const MOVIE_CATEGORIES = [
       duration: "3h 29min",
       year: "2019",
       rating: "4.2",
+      director: "",
+      starring: "",
       description: "Un asesino recuerda haber participado en el asesinato de Jimmy Hoffa.",
     },
     {
@@ -65,6 +75,8 @@ export const MOVIE_CATEGORIES = [
       duration: "1h 44min",
       year: "2017",
       rating: "4.0",
+      director: "",
+      starring: "",
       description: "Un joven afroamericano visita a la familia de su novia durante el fin de semana, eventualmente la historia toma un rumbo escalofriante.",
     },
     {
@@ -74,6 +86,8 @@ export const MOVIE_CATEGORIES = [
       duration: "1h 56min",
       year: "2016",
       rating: "4.0",
+      director: "",
+      starring: "",
       description: "Después de que doce naves espaciales misteriosas aparecen en todo el mundo, Un lingüista deberá trabajar con los militares para poder comunicarse con las formas de vida extraterrestres.",
     },
     {
@@ -83,6 +97,8 @@ export const MOVIE_CATEGORIES = [
       duration: "1h 45min",
       year: "2017",
       rating: "4.5",
+      director: "",
+      starring: "",
       description: "El aspirante a músico Miguel, entra a la Tierra de los Muertos para encontrar a su tatarabuelo, un legendario cantante.",
     },{
       title: "El Padrino",
@@ -91,6 +107,8 @@ export const MOVIE_CATEGORIES = [
       duration: "2h 55min",
       year: "1972",
       rating: "4.5",
+      director: "",
+      starring: "",
       description: "La historia de la familia Corleone, una familia de la mafia italiana en Nueva York, y su lucha por el poder y la supervivencia.",
     },
     {
@@ -100,6 +118,8 @@ export const MOVIE_CATEGORIES = [
       duration: "3h 15min",
       year: "1993",
       rating: "4.4",
+      director: "",
+      starring: "",
       description: "La historia de Oskar Schindler, un empresario alemán que salva a miles de judíos de la muerte durante el Holocausto.",
     },
     {
@@ -109,6 +129,8 @@ export const MOVIE_CATEGORIES = [
       duration: "2h 58min",
       year: "2001",
       rating: "4.4",
+      director: "",
+      starring: "",
       description: "La historia de un hobbit llamado Frodo que debe llevar el Anillo Único a la Montaña del Destino para destruirlo y salvar a la Tierra Media del mal.",
     },
     {
@@ -118,6 +140,8 @@ export const MOVIE_CATEGORIES = [
       duration: "2h 34min",
       year: "1994",
       rating: "4.3",
+      director: "",
+      starring: "",
       description: "La historia de dos asesinos a sueldo que deben recuperar un valioso objeto para su jefe, mientras que un boxeador debe enfrentar una decisión difícil.",
     },
   ];
